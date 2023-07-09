@@ -1,6 +1,6 @@
 <div id="header" align="left">
   <h1>Hello there!  <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="70"/></h1>
- 
+
 </div>
 <h3>Contact me:</h3>
 <div id="badges">
@@ -15,6 +15,12 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=eliteSufferer&style=flat-square&color=blue" alt=""/>
+
+### :man_technologist: About me:
+
+- 👨‍🎓Currently studing software engineering at [ITMO University](https://itmo.ru/)
+- 💡Enjoy constant **educational process** & always opened to something **new**
+- ⚡Like to read and translate English technical articles into Russian in my free time
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -31,17 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"  title="vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"  title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 </div>
-<!--
-**eliteSufferer/eliteSufferer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📈 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eliteSufferer&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliteSufferer)](https://github.com/anuraghazra/github-readme-stats)
