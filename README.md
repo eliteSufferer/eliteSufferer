@@ -7,6 +7,9 @@
   <a href="https://t.me/black_rider73">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="mailto:shetininmihail123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=eliteSufferer&style=flat-square&color=blue" alt=""/>
 
