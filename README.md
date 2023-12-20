@@ -13,13 +13,13 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=eliteSufferer&style=flat-square&color=blue" alt=""/>
 
-### :man_technologist: About me:
+### 👨‍💻 About me:
 
 - 👨‍🎓Currently studing software engineering at [ITMO University](https://itmo.ru/)
 - 💡Enjoy constant **educational process** & always opened to something **new**
 - ⚡Like to read and translate English technical articles into Russian in my free time
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
